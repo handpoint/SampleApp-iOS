@@ -1,0 +1,1 @@
+../../../HandpointSDK/Library/heft/MpedDevice.h

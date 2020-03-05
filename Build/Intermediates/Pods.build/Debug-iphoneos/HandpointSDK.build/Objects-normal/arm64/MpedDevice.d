@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/MpedDevice.mm \
+  /Users/juan/repos/SampleApp/Pods/Target\ Support\ Files/HandpointSDK/HandpointSDK-prefix.pch \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/MpedDevice.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/HeftClient.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/HeftConnection.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/ResponseParser.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/HeftManager.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/HeftDiscovery.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/HeftDiscoveryDelegate.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/Exception.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/Logger.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/debug.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/ScannerDisabledResponse.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/ResponseInfoObject.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/ResponseInfo.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/ScannerDisabledResponseInfo.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/HeftStatusReportDelegate.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/ScannerEventResponseInfo.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/FinanceResponseInfo.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/DeviceStatus.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/BaseModel.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/LogInfoObject.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/LogInfo.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/ScannerEventResponse.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/FinanceResponse.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/XMLTags.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/FrameManager.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/Frame.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/api/CmdIds.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/RequestCommand.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/Command.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/atl.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/IHostProcessor.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/ResponseCommand.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/Shared/IResponseProcessor.h \
+  /Users/juan/repos/SampleApp/Pods/HandpointSDK/Library/heft/MPosOperation.h

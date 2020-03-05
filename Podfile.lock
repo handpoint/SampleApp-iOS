@@ -1,0 +1,16 @@
+PODS:
+  - HandpointSDK (3.2.4)
+
+DEPENDENCIES:
+  - HandpointSDK (= 3.2.4)
+
+SPEC REPOS:
+  trunk:
+    - HandpointSDK
+
+SPEC CHECKSUMS:
+  HandpointSDK: 5ce5625f36a2b910fc7b42ba8d0827ca2166003d
+
+PODFILE CHECKSUM: d6edfee03a73a4308300dd078e7bfda9f0a993a4
+
+COCOAPODS: 1.8.4

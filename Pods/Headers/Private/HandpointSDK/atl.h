@@ -1,0 +1,1 @@
+../../../HandpointSDK/Library/heft/Shared/atl.h

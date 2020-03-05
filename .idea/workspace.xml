@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="234c4d70-ba9c-4383-b672-2c1bebdaf032" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_98278810-696E-44FD-8AB7-729F4032A97D" />
+  <component name="ProjectId" id="1YPHwXTtc83NAjmCwaTVOhB0780" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SampleApp" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SampleApp" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SampleApp" TARGET_NAME="SampleApp" CONFIG_NAME="Debug" SCHEME_NAME="SampleApp" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="SampleApp" RUN_TARGET_NAME="SampleApp" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234c4d70-ba9c-4383-b672-2c1bebdaf032" name="Default Changelist" comment="" />
+      <created>1582837548423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582837548423</updated>
+      <workItem from="1582837554022" duration="17371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1582894906492">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="711" y="217" key="#com.intellij.ide.util.MemberChooser/-1440.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1582894906492" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1582837955488" />
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582893633476">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1582893633476" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582837592928">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582837592928" />
+    <state x="643" y="113" key="refactoring.ChangeSignatureDialog" timestamp="1582915366098">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="643" y="113" key="refactoring.ChangeSignatureDialog/-1440.203.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1582915366098" />
+    <state x="482" y="98" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1582838532762" />
+    <state x="385" y="213" key="search.everywhere.popup" timestamp="1582837877953">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1582837877953" />
+  </component>
+</project>

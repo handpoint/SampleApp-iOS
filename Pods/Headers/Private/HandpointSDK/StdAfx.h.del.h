@@ -1,0 +1,1 @@
+../../../HandpointSDK/Library/heft/Shared/StdAfx.h.del.h
