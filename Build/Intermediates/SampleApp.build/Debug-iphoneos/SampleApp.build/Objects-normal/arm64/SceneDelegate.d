@@ -1,2 +1,2 @@
-dependencies: /Users/juan/repos/SampleApp/SampleApp/SceneDelegate.m \
-  /Users/juan/repos/SampleApp/SampleApp/SceneDelegate.h
+dependencies: /Users/juan/repos/SampleApp-iOS/SampleApp/SceneDelegate.m \
+  /Users/juan/repos/SampleApp-iOS/SampleApp/SceneDelegate.h

@@ -1,2 +1,3 @@
-dependencies: /Users/juan/repos/SampleApp/SampleApp/UIColor+Handpoint.m \
-  /Users/juan/repos/SampleApp/SampleApp/UIColor+Handpoint.h
+dependencies: \
+  /Users/juan/repos/SampleApp-iOS/SampleApp/UIColor+Handpoint.m \
+  /Users/juan/repos/SampleApp-iOS/SampleApp/UIColor+Handpoint.h

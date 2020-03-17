@@ -28,18 +28,6 @@
                       sharedSecret:sharedSecret
                       automaticReconnection:YES];
     [self.handpoint connectToFirstAvailableDevice];
-    
-    /*
-     @property (weak, nonatomic) IBOutlet UILabel *connectionStatus;
-     @property (weak, nonatomic) IBOutlet UILabel *currentTransactionStatus;
-     @property (weak, nonatomic) IBOutlet UILabel *currentTransactionMessage;
-     @property (weak, nonatomic) IBOutlet UILabel *multiLineLabel;
-     - (IBAction)saleButton:(id)sender;
-     - (IBAction)refundButton:(id)sender;
-     - (IBAction)scanOneItemButton:(id)sender;
-     - (IBAction)multiScanButton:(id)sender;
-     */
-    
 }
 
 - (void)resetLables {
@@ -53,6 +41,7 @@
         case ConnectionStatusConnected:
             self.connectionStatus.backgroundColor = [UIColor green];
             self.connectionStatus.text = [NSString stringWithFormat:@"Connected: %@", device.name];
+            [self resetLables];
             break;
         case ConnectionStatusDisconnected:
             self.connectionStatus.backgroundColor = [UIColor red];

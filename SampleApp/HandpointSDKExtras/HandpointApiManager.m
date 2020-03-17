@@ -435,6 +435,11 @@ static const NSTimeInterval WAIT_TIME_BETWEEN_RECONNECTIONS = 3.0;
 
 - (void)connectToFirstAvailableDevice {
     NSLog(@"connectToFirstAvailableDevice. Automatic reconnection: %@" , self.automaticReconnection ? @"YES" : @"NO");
+    
+    if(self.preferredDevice) {
+        [self disconnect];
+    }
+    
     [self listDevices:^(NSArray *devices) {
         // If there is only 1 device available, connect to it
         if (devices && devices.count) {
