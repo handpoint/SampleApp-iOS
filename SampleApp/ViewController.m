@@ -27,6 +27,7 @@
                       initWithBasicEventsDelegate:self
                       sharedSecret:sharedSecret
                       automaticReconnection:YES];
+
     [self.handpoint connectToFirstAvailableDevice];
 }
 
