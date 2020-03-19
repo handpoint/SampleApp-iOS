@@ -42,7 +42,6 @@
         case ConnectionStatusConnected:
             self.connectionStatus.backgroundColor = [UIColor green];
             self.connectionStatus.text = [NSString stringWithFormat:@"Connected: %@", device.name];
-            [self resetLables];
             break;
         case ConnectionStatusDisconnected:
             self.connectionStatus.backgroundColor = [UIColor red];
