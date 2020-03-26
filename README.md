@@ -12,7 +12,7 @@ self.handpoint = [[HandpointApiManager alloc]
    [self.handpoint connectToFirstAvailableDevice];
 ```
 
-#What to look for?
+# What to look for?
 We've built an intermediate layer to simplify even more integrations. This layer reflects our learnings from several apps developed using the library.
 
 You can take a look at the layer in `HandpointApiManager.m`
