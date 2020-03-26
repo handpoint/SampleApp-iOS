@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="234c4d70-ba9c-4383-b672-2c1bebdaf032" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/arm64/HandpointApiManager.o" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/arm64/HandpointApiManager.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/arm64/ViewController.o" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/SampleApp.build/Debug-iphoneos/SampleApp.build/Objects-normal/arm64/ViewController.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/BuildDescriptionCacheIndex-c00168b0431e706865551134d4316f3c" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/BuildDescriptionCacheIndex-c00168b0431e706865551134d4316f3c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/a7b94e1489b25500529394a7f3f411bb-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/a7b94e1489b25500529394a7f3f411bb-manifest.xcbuild" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/dea45044f3253719572c841d42a2247a-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/dea45044f3253719572c841d42a2247a-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/ec7f635f7bf1fceaa29880d3cb3678bc-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/ec7f635f7bf1fceaa29880d3cb3678bc-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/fdb555495ed9277b1bf0242bcb692994-desc.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Intermediates/XCBuildData/fdb555495ed9277b1bf0242bcb692994-manifest.xcbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/SampleApp" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/SampleApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/Build/Products/Debug-iphoneos/SampleApp.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SampleApp.xcworkspace/xcuserdata/juan.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/SampleApp.xcworkspace/xcuserdata/juan.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleApp/HandpointSDKExtras/HandpointApiManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/SampleApp/HandpointSDKExtras/HandpointApiManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleApp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/SampleApp/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SampleApp/ViewController.m" beforeDir="false" afterPath="$PROJECT_DIR$/SampleApp/ViewController.m" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +81,8 @@
       <workItem from="1584130837506" duration="285000" />
       <workItem from="1584439430070" duration="325000" />
       <workItem from="1584458853876" duration="959000" />
+      <workItem from="1584975154213" duration="2295000" />
+      <workItem from="1585230218495" duration="692000" />
     </task>
     <task id="LOCAL-00001" summary="Small UI corrections">
       <created>1584468524695</created>
@@ -91,9 +119,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1584468526884" />
-    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1584468388283">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1585230388676">
+      <screen x="0" y="23" width="1440" height="820" />
     </state>
+    <state x="399" y="276" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1585230388676" />
     <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1584468388283" />
     <state x="643" y="113" key="refactoring.ChangeSignatureDialog" timestamp="1582915366098">
       <screen x="0" y="23" width="1920" height="1057" />

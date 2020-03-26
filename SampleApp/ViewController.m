@@ -22,19 +22,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    NSString *sharedSecret = @"0102030405060708091011121314151617181920212223242526272829303132";
+
     self.handpoint = [[HandpointApiManager alloc]
                       initWithBasicEventsDelegate:self
-                      sharedSecret:sharedSecret
+                      sharedSecret:@"0102030405060708091011121314151617181920212223242526272829303132"
                       automaticReconnection:YES];
 
-    [self.handpoint connectToFirstAvailableDevice];
-}
-
-- (void)resetLables {
-    self.currentTransactionStatus.text = @"";
-    self.currentTransactionMessage.text = @"";
-    self.multiLineLabel.text = @"";
+   [self.handpoint connectToFirstAvailableDevice];
 }
 
 - (void)connectionStatusChanged:(ConnectionStatus)status device:(HeftRemoteDevice *)device {
@@ -48,7 +42,6 @@
             self.connectionStatus.text = [NSString stringWithFormat:@"Disconnected: %@", device.name];
             break;
         case ConnectionStatusNotConfigured:
-            
             self.connectionStatus.backgroundColor = [UIColor blackColor];
             break;
         default:

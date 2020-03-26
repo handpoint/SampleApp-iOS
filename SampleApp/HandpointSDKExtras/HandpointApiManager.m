@@ -450,6 +450,8 @@ static const NSTimeInterval WAIT_TIME_BETWEEN_RECONNECTIONS = 3.0;
                                      success:^{
                                          NSLog(@"Successfully connected.");
                                      } error:^{
+                                         
+                                         NSLog(@"Error connecting.");
                         if (self.automaticReconnection) {
                             [self performSelector:@selector(connectToFirstAvailableDevice)
                                        withObject:nil
