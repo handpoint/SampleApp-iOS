@@ -1,3 +1,6 @@
+![Alt text](https://handpoint.com/img/logo.svg)
+<img src="https://handpoint.com/img/logo.svg">
+
 # SampleApp-iOS
 Sample iOS App demonstrating an integration to Handpoint's SDK for iOS.
 
