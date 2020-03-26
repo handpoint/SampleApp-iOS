@@ -1,4 +1,4 @@
-<img src="https://handpoint.com/img/logo.svg">
+<img src="https://handpoint.imgix.net/handpoint_logo_transparent.png?w=300">
 
 # SampleApp-iOS
 Sample iOS App demonstrating an integration to Handpoint's SDK for iOS.
