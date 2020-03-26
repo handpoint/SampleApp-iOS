@@ -1,4 +1,3 @@
-![Alt text](https://handpoint.com/img/logo.svg)
 <img src="https://handpoint.com/img/logo.svg">
 
 # SampleApp-iOS
