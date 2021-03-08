@@ -44,6 +44,8 @@ typedef void (^ErrorBlock) (NSError *error);
                    timeoutSeconds:(NSInteger)timeoutSeconds
           sendScannerCodesGrouped:(BOOL)sendScannerCodesGrouped;
 
+- (void)disableScanner;
+
 - (void)disconnect;
 
 - (BOOL)setLogLevel:(eLogLevel)logLevel;

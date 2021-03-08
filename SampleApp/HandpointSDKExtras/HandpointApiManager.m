@@ -131,6 +131,11 @@ static const NSTimeInterval WAIT_TIME_BETWEEN_RECONNECTIONS = 3.0;
                                      timeoutSeconds:timeoutSeconds];
 }
 
+- (void)disableScanner
+{
+    [self.api disableScanner];
+}
+
 #pragma mark - Device Management
 
 - (BOOL)connectToDeviceWithAddress:(NSString *)address

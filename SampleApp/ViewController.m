@@ -66,11 +66,11 @@
 }
 
 - (IBAction)saleButton:(id)sender {
-    [self.handpoint saleWithAmount:1000 currency:Currency.USD];
+    [self.handpoint saleWithAmount:1000 currency:Currency.GBP];
 }
 
-- (IBAction)refundButton:(id)sender {
-    [self.handpoint refundWithAmount:1200 currency:Currency.USD];
+- (IBAction)disableScannerButton:(id)sender {
+    [self.handpoint disableScanner];
 }
 
 - (IBAction)scanOneItemButton:(id)sender {

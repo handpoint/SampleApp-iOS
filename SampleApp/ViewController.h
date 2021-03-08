@@ -15,7 +15,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *currentTransactionMessage;
 @property (weak, nonatomic) IBOutlet UILabel *multiLineLabel;
 - (IBAction)saleButton:(id)sender;
-- (IBAction)refundButton:(id)sender;
+- (IBAction)disableScannerButton:(id)sender;
 - (IBAction)scanOneItemButton:(id)sender;
 - (IBAction)multiScanButton:(id)sender;
 
