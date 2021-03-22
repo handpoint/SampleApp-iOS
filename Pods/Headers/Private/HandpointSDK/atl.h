@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/atl.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/atl.h

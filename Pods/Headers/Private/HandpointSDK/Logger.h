@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/Logger.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/Logger.h

@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/ScannerEventResponseInfo.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/ScannerEventResponseInfo.h

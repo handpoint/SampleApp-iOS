@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/LogInfoObject.h
+../../../../../HandpointSDK-iOS/Library/heft/LogInfoObject.h

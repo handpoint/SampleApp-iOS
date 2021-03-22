@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/ResponseInfo.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/ResponseInfo.h

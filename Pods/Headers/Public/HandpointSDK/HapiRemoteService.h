@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HapiRemoteService.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HapiRemoteService.h

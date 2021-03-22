@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/MPosOperation.h
+../../../../../HandpointSDK-iOS/Library/heft/MPosOperation.h

@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/HeftConnection.h
+../../../../../HandpointSDK-iOS/Library/heft/HeftConnection.h

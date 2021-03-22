@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/Command.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/Command.h

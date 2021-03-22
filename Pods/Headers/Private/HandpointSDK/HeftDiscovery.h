@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HeftDiscovery.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HeftDiscovery.h

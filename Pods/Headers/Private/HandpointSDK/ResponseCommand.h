@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/ResponseCommand.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/ResponseCommand.h

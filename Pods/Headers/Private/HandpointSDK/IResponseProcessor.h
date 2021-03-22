@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/IResponseProcessor.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/IResponseProcessor.h

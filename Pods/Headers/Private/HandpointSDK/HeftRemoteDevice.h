@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HeftRemoteDevice.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HeftRemoteDevice.h

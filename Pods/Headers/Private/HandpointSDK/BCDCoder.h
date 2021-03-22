@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/BCDCoder.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/BCDCoder.h

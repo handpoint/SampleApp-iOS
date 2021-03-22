@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/Crc.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/Crc.h

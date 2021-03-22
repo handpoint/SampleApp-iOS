@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/IHostProcessor.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/IHostProcessor.h

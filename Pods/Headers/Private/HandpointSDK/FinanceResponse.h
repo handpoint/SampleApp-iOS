@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/FinanceResponse.h
+../../../../../HandpointSDK-iOS/Library/heft/FinanceResponse.h

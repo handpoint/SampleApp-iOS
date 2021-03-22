@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/Exception.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/Exception.h

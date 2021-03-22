@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/ScannerDisabledResponse.h
+../../../../../HandpointSDK-iOS/Library/heft/ScannerDisabledResponse.h

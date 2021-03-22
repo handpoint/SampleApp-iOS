@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/ResponseInfoObject.h
+../../../../../HandpointSDK-iOS/Library/heft/ResponseInfoObject.h
