@@ -1,3 +1,3 @@
 target 'SampleApp' do
-  pod 'HandpointSDK', :path => '~/repos/HandpointSDK-iOS/' #'3.2.4'
+  pod 'HandpointSDK', '4.0.0' #:path => '~/repos/HandpointSDK-iOS/' 
 end
