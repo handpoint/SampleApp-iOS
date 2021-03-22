@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HeftClient.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HeftClient.h

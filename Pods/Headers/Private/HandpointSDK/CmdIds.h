@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/CmdIds.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/CmdIds.h

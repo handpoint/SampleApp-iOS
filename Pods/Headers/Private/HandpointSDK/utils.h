@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/utils.h
+../../../../../HandpointSDK-iOS/Library/heft/utils.h

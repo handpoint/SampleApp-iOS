@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/StdAfx.h.del.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/StdAfx.h.del.h

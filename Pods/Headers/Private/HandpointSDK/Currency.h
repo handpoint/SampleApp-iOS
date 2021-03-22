@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/Currency.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/Currency.h

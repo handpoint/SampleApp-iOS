@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HeftManager.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HeftManager.h

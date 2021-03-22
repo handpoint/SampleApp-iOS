@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/debug.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/debug.h

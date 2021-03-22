@@ -1,16 +1,16 @@
 PODS:
-  - HandpointSDK (3.2.4)
+  - HandpointSDK (3.3.2)
 
 DEPENDENCIES:
-  - HandpointSDK (= 3.2.4)
+  - HandpointSDK (from `~/repos/HandpointSDK-iOS/`)
 
-SPEC REPOS:
-  trunk:
-    - HandpointSDK
+EXTERNAL SOURCES:
+  HandpointSDK:
+    :path: "~/repos/HandpointSDK-iOS/"
 
 SPEC CHECKSUMS:
-  HandpointSDK: 5ce5625f36a2b910fc7b42ba8d0827ca2166003d
+  HandpointSDK: 588a295039e372c124498557e23c24b97167da5b
 
-PODFILE CHECKSUM: d6edfee03a73a4308300dd078e7bfda9f0a993a4
+PODFILE CHECKSUM: e6c0d6b458db26fef10dda4617ce749d6bbcafb5
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.1

@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/DeviceStatus.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/DeviceStatus.h

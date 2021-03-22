@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/MpedDevice.h
+../../../../../HandpointSDK-iOS/Library/heft/MpedDevice.h

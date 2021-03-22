@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/HandpointAll.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/HandpointAll.h

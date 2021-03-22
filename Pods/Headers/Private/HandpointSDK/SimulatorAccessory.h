@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/SimulatorAccessory.h
+../../../../../HandpointSDK-iOS/Library/heft/SimulatorAccessory.h

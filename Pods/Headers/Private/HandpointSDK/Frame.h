@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/Frame.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/Frame.h

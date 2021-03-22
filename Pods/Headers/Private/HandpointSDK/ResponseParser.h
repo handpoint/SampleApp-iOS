@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/ResponseParser.h
+../../../../../HandpointSDK-iOS/Library/heft/ResponseParser.h

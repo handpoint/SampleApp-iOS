@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/Shared/api/BaseModel.h
+../../../../../HandpointSDK-iOS/Library/heft/Shared/api/BaseModel.h

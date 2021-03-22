@@ -1,1 +1,1 @@
-../../../HandpointSDK/Library/heft/XMLTags.h
+../../../../../HandpointSDK-iOS/Library/heft/XMLTags.h
